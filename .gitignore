@@ -1,0 +1,15 @@
+# Local material outside the publication scope
+.env
+.env.*
+!.env.example
+private/
+internal/
+raw/
+artifacts/
+*.log
+*.tmp
+*.bak
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db

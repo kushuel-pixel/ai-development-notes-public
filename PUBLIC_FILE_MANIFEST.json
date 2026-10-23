@@ -1,0 +1,66 @@
+{
+  "schema": "public-file-manifest-v1",
+  "date": "2026-10-24",
+  "scope": "Public activity introduction only. Mathematical source and evidence are linked, not bundled.",
+  "self_excluded": "PUBLIC_FILE_MANIFEST.json",
+  "payload_file_count": 11,
+  "total_file_count_including_this_manifest": 12,
+  "license_scope": "See PUBLICATION_POLICY.md. No blanket additional license is granted for this activity introduction.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 19,
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 166,
+      "sha256": "bbbae82a9de0e8d3a2687d66533c56343a1d8c278ff934beccded3c00bfedffa"
+    },
+    {
+      "path": "AI_USE.md",
+      "bytes": 660,
+      "sha256": "ef8746edce2bdc374b220ba62cd8168f447a1fe0dffe9e2e6a4f7c89529a9ac4"
+    },
+    {
+      "path": "PUBLICATION_POLICY.md",
+      "bytes": 1724,
+      "sha256": "0eb149d9df26ceed4cda6649cb960dc8f997d60db061ff04c4a747ab6e490253"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2718,
+      "sha256": "e6e407c5471b5a58ec85f4d69af1842e5ed3b3578bab83ac85f352a6c820d8db"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1691,
+      "sha256": "9d1f07590105d4ea82caa3f02973f72af99727d132af20a9d8283073bce6b32f"
+    },
+    {
+      "path": "TIMELINE.md",
+      "bytes": 1412,
+      "sha256": "01dccc9284003b32454285d5c62f5101764064ab8dfcbfb9d8d1ac302cbf4b61"
+    },
+    {
+      "path": "cases/janken.md",
+      "bytes": 674,
+      "sha256": "e4b4a243273cecb2dad212deb9c719844f128f2441588fa173280458041abee1"
+    },
+    {
+      "path": "cases/math.md",
+      "bytes": 1945,
+      "sha256": "38251c3824eb899f28d5e0ec3b69556ba53aa3f40b5e2e9ee02ee80d17890a4c"
+    },
+    {
+      "path": "cases/pob.md",
+      "bytes": 1300,
+      "sha256": "349a05ba0431691eeccca5984689ba71eccc21722a3669ceb2572f0174fa0b68"
+    },
+    {
+      "path": "cases/vln.md",
+      "bytes": 431,
+      "sha256": "87d991ce8f5facd39189dc8a205cba9c97fb3e2dd4718ac8000035808cc41557"
+    }
+  ]
+}
